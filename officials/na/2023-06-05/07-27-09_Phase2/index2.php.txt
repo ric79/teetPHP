@@ -1,3 +1,9 @@
+<html>
+<head>
+<title>PHP Test</title>
+</head>
+<body>
+
 INIZIO
 <?php
 
@@ -14,3 +20,6 @@ foreach ($arr as &$value) {
 
 ?>
 FINE
+
+</body>
+</html>
